@@ -9,3 +9,6 @@ I am interested in astrophysical fluid dynamics at many scales and in many envir
 
 ## CV
 ## [Download my CV](files/CV_YourName.pdf)
+
+## Contact
+Email: drmi7721@colorado.edu 
