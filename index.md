@@ -1,3 +1,7 @@
+[About Me](aboutme)
+[Research](research)
+[Publications](publications)
+
 ## About Me
 I am a Ph.D. candidate in the Department of Astrophysical and Planetary Sciences at the University of Colorado Boulder
 
